@@ -1,0 +1,8 @@
+item,value
+Python,3.13.15
+PyTorch,2.11.0+cu128
+CUDA available,True
+GPU,Tesla T4
+GPU count,2
+GPU memory (GB),15.6
+NumPy,2.1.3

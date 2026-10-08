@@ -1,0 +1,12 @@
+check,value
+rows (filaments),1640
+test images,180
+images with >=1 row,178
+images fallback-only,0
+images with no prediction,2
+unique ids,True
+quotes in RLE,0
+mean filaments / image,9.11
+train GT mean / record,7.1
+re-read rows match,True
+all ids map to test images,True

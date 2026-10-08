@@ -1,0 +1,5 @@
+,fg-biased (p=0.6),uniform random
+crops,200.0,200.0
+% crops with any foreground,86.0,76.0
+mean fg pixels (%),1.05,0.61
+median fg pixels (%),0.82,0.37

@@ -1,0 +1,4 @@
+n_ann,images,fg_pct,frac_pixels_all_agree
+1,411,0.35,1.0
+2,145,0.487,0.467
+3,151,0.591,0.306
