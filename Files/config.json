@@ -1,0 +1,20 @@
+{
+  "ENCODER": "resnet34",
+  "FOLD": 0,
+  "CROP": 768,
+  "EPOCHS": 12,
+  "EVAL_EVERY": 2,
+  "MEAN": 83.0,
+  "STD": 57.0,
+  "SEED": 42,
+  "THR": 0.5,
+  "MIN_AREA": 50,
+  "USE_TTA": false,
+  "post_processing": {
+    "low": 0.5,
+    "high": 0.5,
+    "min_area": 400,
+    "close": 9
+  },
+  "pretrained_weights": "imagenet (training only; inference loads checkpoints)"
+}
